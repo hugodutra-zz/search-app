@@ -14,7 +14,7 @@ For a bigger project I would probably have also used Redux and Redux-saga.
 
 Redux to global state management and redux-saga to deal with asynchronous actions using generators.
 
-You can see a project where I use those [here]([https://github.com/hugodutra/ergast-api]).
+You can see a project where I use those [here](https://github.com/hugodutra/ergast-api).
 
 ___
 #### Running
