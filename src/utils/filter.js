@@ -1,4 +1,4 @@
-import data from './data.json';
+import data from '../api/data.json';
 
 function containsText(item, term) {
     const filterText = term.toUpperCase();
